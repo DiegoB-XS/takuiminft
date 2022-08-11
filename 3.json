@@ -1,0 +1,24 @@
+{
+  "name": "TakuimiNFT Ukiyoe #4",
+  "description": "Takuimi NFT was first a JDM cars collection of 66 NFT but because the project it was not succesfull with sales DB decided to take it to the next level with JDM cars with AI art combined so this is the result",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "City",
+      "value": "City Theme"
+    },
+    {
+      "trait_type": "Temple",
+      "value": "Temple Theme"
+    },
+    {
+      "trait_type": "Tree",
+      "value": "Tree Theme"
+    }
+  ],
+  "compiler": "https://ambition.so/"
+}

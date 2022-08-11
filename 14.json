@@ -1,0 +1,28 @@
+{
+  "name": "TakuimiNFT Ukiyoe #15",
+  "description": "Takuimi NFT was first a JDM cars collection of 66 NFT but because the project it was not succesfull with sales DB decided to take it to the next level with JDM cars with AI art combined so this is the result",
+  "image": "14.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple Red Black"
+    },
+    {
+      "trait_type": "Temple",
+      "value": "Temple Theme"
+    },
+    {
+      "trait_type": "City",
+      "value": "City Theme"
+    },
+    {
+      "trait_type": "Madness",
+      "value": "Unique Police"
+    },
+    {
+      "trait_type": "Tire Fire",
+      "value": "Explosion"
+    }
+  ],
+  "compiler": "https://ambition.so/"
+}
